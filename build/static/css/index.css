@@ -1,0 +1,289 @@
+ /* h1{
+    color:red;
+}
+p{
+    color: rgb(138, 43, 226);
+}
+body{
+    background-color: chartreuse;
+}
+button{
+    color: greenyellow;
+    background-color: chocolate;
+}
+pre{
+   color:rgb(136, 50, 100);
+}
+
+h2{
+    color: #097814;
+}
+#headingone {
+    color: #ce1b9b;
+}
+h3{
+    color: hsl(242, 32%, 49%);
+}
+.classone{
+    color: #dfdc1e;
+} 
+ * {
+    color: rgb(31, 16, 247);
+} 
+ =======================================================
+#box{
+    color: red;
+    background-color: blue;
+}
+========================================== 
+p{
+    text-align: right;
+}
+p{
+    text-align: center;
+}
+
+p{
+    text-decoration: underline;
+}
+p{
+    text-decoration: line-through;
+} 
+ p{
+  text-decoration: dotted underline;
+}
+a {
+    text-decoration: none;
+}
+p{
+   text-decoration-color: red;
+} 
+#headingone{
+    font-weight: bolder;
+}
+
+#headingtwo{
+    font-weight: normal;
+}
+#headingthree{
+    font-weight: 300;
+}
+p{
+    font-family: cursive;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#headingone{
+    font-size: 10px;
+}
+#headingtwo{
+    font-size: 60px;
+}
+
+p{
+    line-height: 50px;
+    text-transform: uppercase;
+}
+===================================================================== */
+
+
+/* h1{
+    text-align: center;
+    text-transform: uppercase;
+   font-family: cursive;
+ } 
+ #outer{
+     font-size: 25px;
+}
+
+
+#inner{
+    font-size: 10px;
+}
+
+==================================================================================== */
+
+/*h1{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+}
+div{
+    height: 50px;
+    width: 50px; 
+    border-style:solid;
+    border-color: brown;
+    border-width: 10px;
+     background-color: aqua;
+    border-radius: 50%;
+   border:brown,10px,solid;
+    margin-top: 10px;
+   margin-bottom: 20px;
+   margin-left: 15px;
+   margin-right: 25px;
+   margin:20px;
+   margin: 10px,20px,30px,40px,;
+   padding-left: 10px;
+   padding-right: 20px;
+   padding-top: 30px;
+   padding-bottom:15px; 
+    padding: 20px;
+   padding: 10px,20px,30px,40px; 
+
+ } 
+  div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;} 
+{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+ #navbar{
+    
+    height:60px ;
+    background-color:#0f1111;
+}
+
+button{
+    background-color:#f08804;
+}
+#logo{
+    color:#f08804;
+    font-size: 25px;
+}
+
+a{
+    margin-right: 200px;
+}  */
+
+/* div{
+    background-color: brown;
+    display: inline;
+}
+button{
+    
+    display: block;
+}  */
+
+/* div{
+    background-color: blue;
+    display: inline;
+}
+button{
+    background-color: aqua;
+    display: block; */
+
+    /* div{
+        height: 100px ;
+        width: 100px;
+        padding: 25px;
+        margin: 25px;
+        /* display: inline; */
+        /*  */
+/* display: inline-block;
+        
+    }
+    #boxone{
+        background-color:rgba(00, 255,00,0.5);
+        visibility: hidden;
+    }
+  #boxtwo{
+    background-color: blue;
+    display: none;
+  }
+  #boxthree{
+    background-color:rgba(255,00,00,0.5);
+     */
+  /* } */ 
+  /* div{
+    height: 100px;
+    width: 100px;
+    border-color: black;
+    border-width: 2px;
+    border-style: dotted;
+    display: inline-block;
+    
+  }
+  #divone{
+    background-color:rgba(00,255,00,0.5);
+  }
+  #divtwo{
+    background-color:rgba(255,00,00,0.5);
+  }
+  #divthree{
+    background-color:rgba(00,00,255,0.5);
+  } */
+/* #boxone{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  font-size: 10px;
+}
+#boxtwo{
+  height:50%;
+  width:50% ;
+  background-color: brown;
+   font-size: 1em; 
+   font-size: rem; 
+} */
+ /* #boxone{
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+ }
+
+ #boxtwo{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+   position: relative;
+  top:10px;
+  left: 10px;
+  z-index: 1; 
+ }
+ 
+ #boxthree{
+  height: 100px;
+  width: 100px;
+  background-color: yellow; 
+   position: absolute;
+  top:00px;
+  z-index: 2; 
+  
+  
+ }
+
+ #boxfour{
+  height: 100px;
+  width:100px;
+  background-color:red;
+  position: fixed;
+  bottom: 0px; 
+
+ }
+ div{
+  display:inline-block;
+  border: 2px solid black;
+ }
+ #boxone{ 
+  background-image:url(cat.image.jpg);
+  background-size: cover;
+
+ }
+ body{
+  background-image: url(cat.image.jpg);
+  background-size: cover;
+ } */
+
+ 
+
+
+
+
+
+

@@ -1,0 +1,118 @@
+/* div{
+    background-color: blue;
+    display: inline;
+}
+button{
+    background-color: aqua;
+    display: block; */
+
+    /* div{
+        height: 100px ;
+        width: 100px;
+        padding: 25px;
+        margin: 25px;
+        /* display: inline; */
+        /*  */
+/* display: inline-block;
+        
+    }
+    #boxone{
+        background-color:rgba(00, 255,00,0.5);
+        visibility: hidden;
+    }
+  #boxtwo{
+    background-color: blue;
+    display: none;
+  }
+  #boxthree{
+    background-color:rgba(255,00,00,0.5);
+     */
+  /* } */ 
+  /* div{
+    height: 100px;
+    width: 100px;
+    border-color: black;
+    border-width: 2px;
+    border-style: dotted;
+    display: inline-block;
+    
+  }
+  #divone{
+    background-color:rgba(00,255,00,0.5);
+  }
+  #divtwo{
+    background-color:rgba(255,00,00,0.5);
+  }
+  #divthree{
+    background-color:rgba(00,00,255,0.5);
+  } */
+/* #boxone{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  font-size: 10px;
+}
+#boxtwo{
+  height:50%;
+  width:50% ;
+  background-color: brown;
+   font-size: 1em; 
+   font-size: rem; 
+} */
+ /* #boxone{
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+ }
+
+ #boxtwo{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+   position: relative;
+  top:10px;
+  left: 10px;
+  z-index: 1; 
+ }
+ 
+ #boxthree{
+  height: 100px;
+  width: 100px;
+  background-color: yellow; 
+   position: absolute;
+  top:00px;
+  z-index: 2; 
+  
+  
+ }
+
+ #boxfour{
+  height: 100px;
+  width:100px;
+  background-color:red;
+  position: fixed;
+  bottom: 0px; 
+
+ }
+ div{
+  display:inline-block;
+  border: 2px solid black;
+ }
+ #boxone{ 
+  background-image:url(cat.image.jpg);
+  background-size: cover;
+
+ }
+ body{
+  background-image: url(cat.image.jpg);
+  background-size: cover;
+ } */
+
+div{
+  height: 100px;
+  width: 100px;
+  background-image:url(cat.image.jpg);
+  background-size: cover;
+  position: fixed;
+  right: 0px;
+}
